@@ -19,5 +19,6 @@
 
 	<modules>
 		<module>B</module>
+		<module>C</module>
 	</modules>
 </project>
